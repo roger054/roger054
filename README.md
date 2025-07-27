@@ -1,61 +1,62 @@
-<h1 align="center">Hi there, I'm Soheil Manna 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=18F785&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%F0%9F%94%92;Embedded+Systems+Builder+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%A8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+I'm+Roger054!;Cybersecurity+Researcher+%F0%9F%94%93;Full-stack+Developer+%F0%9F%9A%80;App+%2F+Desktop+%2F+Web+Creator+%F0%9F%92%BB;Arduino+Projects+%E2%9C%A8+and+more..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔭 I’m currently working on advanced **cybersecurity tools** for red teams & governments  
-- 🛠️ I build **websites**, **mobile apps**, **desktop software**, and **Arduino/ESP32-based systems**  
-- 🌍 Based in Qatar, reaching Sudan & the Gulf  
-- 🧪 Passionate about combining **low-level hardware** with **high-level security intelligence**  
-- 🧠 Always learning something new – from **reverse engineering** to **React Native**  
+<img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/gitbanner.gif" width="100%"/>
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧠 About Me  
+Hi! I'm a passionate developer and cybersecurity toolmaker who works across **web, mobile, and desktop platforms**, and loves building Arduino hardware hacks and **red-team tools**.  
+I love solving problems, learning new stacks, and making things look **awesome**.
 
+---
+
+## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,java,python,js,ts,react,nodejs,nextjs,flutter,dart,firebase,mysql,mongodb,docker,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,dart,go" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,bash" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🔥 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roger054/roger054/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/roger054/roger054/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔍 DeepDomain](https://github.com/roger054/DeepDomain) | Advanced Subdomain Enumeration Tool with DNS, APIs, and Cert Transparency |
-| 🛡️ RedTeam Recon Tool | High-end asset discovery & weak point scanner for govs & corps *(private)* |
-| 🧠 ESP32 + MCP2515 CAN Bus Tool | Real-time embedded system for vehicle or industrial CAN sniffing |
-| 🌐 Full-stack E-commerce Platform | Backend in Node.js, front in React, deployed with CI/CD pipeline |
+## 🧪 Current Projects  
+- 🔒 Developing advanced **red-team tools** and **network security scripts**
+- 📱 Building full-stack **Flutter apps** and admin dashboards  
+- 🖥️ Creating **desktop automation apps** and local utilities  
+- 📡 Designing **Arduino security gadgets**, sensors, and more  
 
 ---
 
-## 📊 Skill Proficiency (Visual)
+## 📈 Skill Progress  
+Here’s a fun look at how much I’m diving into each skill:
 
-```markdown
-C++           ████████████░░  85%
-Python        ████████████░░  80%
-JavaScript    ███████████░░░  75%
-Flutter/Dart  ██████████░░░░  70%
-Cyber Tools   ██████████████  95%
+```diff
++ 🕸️ Frontend         ██████████████▒▒ 90%
++ 🔧 Backend          ████████████▒▒▒ 85%
++ 🐧 Linux & Shell    ███████████▒▒▒▒ 80%
++ 🧠 Cybersecurity    ████████████▒▒▒ 88%
++ 💾 Databases        ██████████▒▒▒▒▒ 75%
++ 📱 Mobile Dev       ██████████▒▒▒▒▒ 70%
++ 🖥️ Desktop Dev      ██████████▒▒▒▒▒ 72%
++ 🔌 Embedded (IoT)   █████████▒▒▒▒▒▒ 65%
