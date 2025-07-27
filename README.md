@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF0000,000000&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Roger054+%F0%9F%91%8B;Cybersecurity+Tool+Builder+%F0%9F%94%93;Web+%7C+App+%7C+Desktop+Dev+%F0%9F%9A%80;ESP32+%2F+Arduino+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%94%BB;I+Create+Smart%2C+Secure+Tech+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=000000,FF0000&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Roger054+%F0%9F%91%8B;Cybersecurity+Tool+Builder+%F0%9F%94%93;Web+%7C+App+%7C+Desktop+Dev+%F0%9F%9A%80;ESP32+%2F+Arduino+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%94%BB;I+Create+Smart%2C+Secure+Tech+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
