@@ -1,103 +1,108 @@
-# 👋 Hi there, I'm Soheil Manna (roger054)
+<!--
+This README is designed to make your GitHub profile look like a magical high-tech lair.
+You can customize colors, emojis, sections, and animations as you want!
+-->
 
-🚀 Passionate developer & cybersecurity enthusiast building awesome stuff across web, mobile, desktop, and embedded systems.
+<!-- Gradient Background -->
+<p align="center">
+  <img width="100%" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80" alt="Fantasy Tech Background" style="border-radius: 15px;"/>
+</p>
 
----
+<h1 align="center" style="background: linear-gradient(90deg, #f1592a, #ffda6a); -webkit-background-clip: text; color: transparent;">
+👋 Welcome to My Magical GitHub Realm
+</h1>
 
-## 🔭 What I Do
-
-- 🌐 Build modern **websites & web apps** (React, Next.js, Node.js)
-- 📱 Develop **cross-platform mobile apps** (Flutter, React Native)
-- 💻 Create **desktop applications** (Electron, .NET, C#)
-- ⚙️ Design and program **embedded systems & Arduino/ESP32 projects**
-- 🛡️ Build professional **cybersecurity/red team tools**
-- 🌱 Always learning new tech & frameworks
-- 🔗 Open-source contributor and tool creator ([DeepDomain](https://github.com/roger054/DeepDomain))
-
----
-
-## ⚒️ Tech Stack
-
-### Languages & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
-
-### Frontend & UI
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### Backend & Platforms
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=f1592a&center=true&vCenter=true&width=600&lines=I'm+Soheil+Manna+(roger054);Cybersecurity+&+Dev+Enthusiast;Creator+of+Awesome+Tools" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧙‍♂️ About Me
 
-| Project       | Description                               | Link                                           |
-| ------------- | ----------------------------------------- | ---------------------------------------------- |
-| DeepDomain    | Advanced Subdomain Enumeration Tool       | [GitHub](https://github.com/roger054/DeepDomain) |
-| Arduino Weather Station | DIY embedded weather monitoring system | Coming soon!                                   |
-| CyberSec Toolkit | Red team pentesting tools & scripts      | Private / In development                        |
-
----
-
-## 📊 GitHub Stats
-
-![roger054's GitHub stats](https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roger054&layout=compact&theme=dark)
+- ⚔️ Full-stack web, mobile, desktop & embedded systems wizard  
+- 🛡️ Red team & cybersecurity spellcaster  
+- 🤖 Arduino & ESP32 enchanter  
+- 📚 Always learning & conjuring new magic (tech!)  
+- 🌌 Open-source explorer — [DeepDomain](https://github.com/roger054/DeepDomain) and beyond  
 
 ---
 
-## 🐍 Contribution Snake
+## ⚔️ My Tech Arsenal
 
-![GitHub Contribution Snake](https://github.com/roger054/roger054/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect With Me
-
-- [Email](mailto:soheilmanna@proton.me)
-- [LinkedIn](https://linkedin.com/in/soheilmanna) (if you want to add)
-- [Portfolio](https://coral-eland-948553.hostingersite.com/)
-- [Twitter](https://twitter.com/yourhandle) (optional)
-
----
-
-## ⚡ Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<div align="center">
+  <!-- Animated badges with shaking effect -->
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java" alt="Java Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Framework-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+  <img src="https://img.shields.io/badge/Embedded-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
+</div>
 
 ---
 
-Thanks for visiting! Feel free to explore my projects and reach out for collaborations or questions! ✌️
+## 🎮 Skill Levels: Progress Bars
+
+| Skill            | Level                      |
+|------------------|----------------------------|
+| Python           | ██████████ 100%            |
+| Java             | █████████░ 90%             |
+| C++              | ████████░░ 80%             |
+| C#               | ███████░░░ 70%             |
+| JavaScript       | █████████░ 90%             |
+| TypeScript       | ███████░░░ 70%             |
+| React            | █████████░ 90%             |
+| Arduino & ESP32  | ████████░░ 80%             |
+
+---
+
+## 🏆 Projects to Conquer
+
+| Project                 | Description                               | Link                                           |
+|-------------------------|-------------------------------------------|------------------------------------------------|
+| DeepDomain              | Advanced Subdomain Enumeration Tool       | [GitHub](https://github.com/roger054/DeepDomain) |
+| Cybersecurity Toolkit   | Red team tools & scripts                   | In progress                                    |
+| Embedded Weather Station| DIY IoT weather monitor (Arduino + ESP32) | Coming soon!                                   |
+
+---
+
+## 📊 GitHub Stats & Snake 🐍
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/roger054/roger054/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📫 Find Me in the Realm
+
+| Platform   | Link                                  |
+|------------|--------------------------------------|
+| Email      | [soheilmanna@proton.me](mailto:soheilmanna@proton.me) |
+| LinkedIn   | [linkedin.com/in/soheilmanna](https://linkedin.com/in/soheilmanna) |
+| Portfolio  | [coral-eland-948553.hostingersite.com](https://coral-eland-948553.hostingersite.com/) |
+| Twitter    | [twitter.com/yourhandle](https://twitter.com/yourhandle) |
+
+---
+
+## 🔮 Fun & Magic
+
+> **"Code is magic — conjure wisely."**  
+> *— Soheil the Coder*  
+
+---
+
+<style>
+@keyframes shake {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+</style>
+
