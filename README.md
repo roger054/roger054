@@ -1,68 +1,61 @@
-# Hi there, I'm roger054 👋
-
-![Snake Animation](https://i.gifer.com/origin/2f/2f8028e57da0c04d9cae5f5b3d4f9967.gif)
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate developer specializing in:
-
-- Embedded systems & **Arduino** projects  
-- Full-stack web & mobile apps (React, Flutter, Node.js)  
-- Cybersecurity & automation tools  
-- Desktop software & utilities  
+<h1 align="center">Hi there, I'm Soheil Manna 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=18F785&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%F0%9F%94%92;Embedded+Systems+Builder+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%A8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-2C6BED?style=flat&logo=espressif&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🔭 I’m currently working on advanced **cybersecurity tools** for red teams & governments  
+- 🛠️ I build **websites**, **mobile apps**, **desktop software**, and **Arduino/ESP32-based systems**  
+- 🌍 Based in Qatar, reaching Sudan & the Gulf  
+- 🧪 Passionate about combining **low-level hardware** with **high-level security intelligence**  
+- 🧠 Always learning something new – from **reverse engineering** to **React Native**  
 
 ---
 
-## 🚀 Current Projects & Highlights
+## 🧰 Tech Toolbox
 
-- **DeepDomain** – Advanced subdomain enumeration tool (GitHub repo)  
-- IoT & Embedded: ESP32 CAN Bus, Arduino automation  
-- Full-stack apps & cybersecurity tools for professional use  
-- Desktop software for Windows & cross-platform  
-
----
-
-## 🎯 Skill Progress
-
-**Arduino:**  
-🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%
-
-**Python:**  
-🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ 80%
-
-**C++:**  
-🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60%
-
-**JavaScript:**  
-🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 90%
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,java,python,js,ts,react,nodejs,nextjs,flutter,dart,firebase,mysql,mongodb,docker,linux,bash,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical" width="48%" />
+</p>
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roger054/roger054/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|--------|-------------|
+| [🔍 DeepDomain](https://github.com/roger054/DeepDomain) | Advanced Subdomain Enumeration Tool with DNS, APIs, and Cert Transparency |
+| 🛡️ RedTeam Recon Tool | High-end asset discovery & weak point scanner for govs & corps *(private)* |
+| 🧠 ESP32 + MCP2515 CAN Bus Tool | Real-time embedded system for vehicle or industrial CAN sniffing |
+| 🌐 Full-stack E-commerce Platform | Backend in Node.js, front in React, deployed with CI/CD pipeline |
+
+---
+
+## 📊 Skill Proficiency (Visual)
+
+```markdown
+C++           ████████████░░  85%
+Python        ████████████░░  80%
+JavaScript    ███████████░░░  75%
+Flutter/Dart  ██████████░░░░  70%
+Cyber Tools   ██████████████  95%
