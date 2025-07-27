@@ -27,8 +27,8 @@ I love solving problems, learning new stacks, and making things look **awesome**
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
