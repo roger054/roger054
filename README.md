@@ -1,177 +1,162 @@
-<!--
-  GitHub Profile README for roger054
-  Clean & modern with animations and badges.
--->
+<!-- README.md -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roger054/roger054/main/assets/github-snake.svg" width="200" alt="GitHub Snake" />
+  <!-- Inline SVG Snake animation -->
+  <svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg" >
+    <style>
+      .snake-body {
+        stroke: #FF6B6B;
+        stroke-width: 6;
+        fill: none;
+        stroke-linecap: round;
+        animation: dash 2s linear infinite;
+      }
+      @keyframes dash {
+        to {
+          stroke-dashoffset: -1000;
+        }
+      }
+    </style>
+    <path class="snake-body" stroke-dasharray="200" stroke-dashoffset="0"
+      d="M10 40 Q 40 10, 70 40 T 130 40 T 190 40" />
+  </svg>
 </p>
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #FF6B6B, #FFD93D); -webkit-background-clip: text; color: transparent;">
-    Hi there! 👋 I'm <strong>roger054</strong>
-  </span>
+  <span class="animated-text">Hi there! 👋 I'm <strong>roger054</strong></span>
 </h1>
 
-<p align="center">
-  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=roger054&color=brightgreen&style=flat-square" />
-  &nbsp;&nbsp;
-  <img alt="Status: Active" src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github" />
-</p>
+<style>
+  .animated-text {
+    display: inline-block;
+    font-size: 3em;
+    font-weight: 700;
+    background: linear-gradient(90deg, #FF6B6B, #FFD93D);
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    cursor: pointer;
+  }
+  .animated-text:hover {
+    transform: scale(1.1) rotate(3deg);
+    filter: drop-shadow(2px 4px 6px rgba(255, 107, 107, 0.7));
+  }
+
+  /* Progress bars container */
+  .progress-bar {
+    background: #eee;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 8px 0;
+    width: 100%;
+    max-width: 400px;
+    height: 22px;
+  }
+  .progress-fill {
+    background: linear-gradient(90deg, #FF6B6B, #FFD93D);
+    height: 100%;
+    width: 0;
+    border-radius: 20px;
+    animation: fillbar 2s ease forwards;
+  }
+  @keyframes fillbar {
+    from { width: 0; }
+    to { width: var(--fill-width); }
+  }
+
+  /* Animated hover for skill text */
+  .skill-text {
+    font-weight: 600;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+    cursor: default;
+  }
+  .skill-text:hover {
+    color: #FF6B6B;
+    text-shadow: 0 0 8px #FF6B6B;
+  }
+</style>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate **full-stack developer**, **embedded systems tinkerer**, and **cybersecurity enthusiast**.  
-I build cool stuff like:
-
-- 🛠️ Desktop, mobile, and web applications  
-- 📡 Arduino and ESP32-based IoT projects  
-- 🔍 Security tools for bug bounty hunters and pen-testers  
-- 🚀 Automation & DevOps workflows  
-
-Always learning, always building.
+<span class="animated-text" style="font-size:1.5em; cursor:pointer;">
+  Passionate full-stack dev, embedded systems fan & cybersecurity explorer.
+</span>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />&nbsp;
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />&nbsp;
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />&nbsp;
-  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
-</p>
+<div>
+  <span class="skill-text">C++</span>
+  <div class="progress-bar" aria-label="C++ skill level">
+    <div class="progress-fill" style="--fill-width: 95%;"></div>
+  </div>
+</div>
 
----
+<div>
+  <span class="skill-text">C#</span>
+  <div class="progress-bar" aria-label="C# skill level">
+    <div class="progress-fill" style="--fill-width: 85%; animation-delay: 0.3s;"></div>
+  </div>
+</div>
 
-## 💪 Skills Progress
+<div>
+  <span class="skill-text">Java</span>
+  <div class="progress-bar" aria-label="Java skill level">
+    <div class="progress-fill" style="--fill-width: 75%; animation-delay: 0.6s;"></div>
+  </div>
+</div>
 
-<table width="100%" cellpadding="5" cellspacing="0" border="0">
-  <tbody>
-    <tr>
-      <td width="20%">C++</td>
-      <td width="80%">
-        <progress max="100" value="95" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #FF6B6B;">
-          95%
-        </progress>
-      </td>
-    </tr>
-    <tr>
-      <td>C#</td>
-      <td>
-        <progress max="100" value="85" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #FFD93D;">
-          85%
-        </progress>
-      </td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>
-        <progress max="100" value="75" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #6BCB77;">
-          75%
-        </progress>
-      </td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>
-        <progress max="100" value="70" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #4D96FF;">
-          70%
-        </progress>
-      </td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>
-        <progress max="100" value="65" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #F7B801;">
-          65%
-        </progress>
-      </td>
-    </tr>
-    <tr>
-      <td>Arduino</td>
-      <td>
-        <progress max="100" value="60" style="width: 100%; height: 16px; border-radius: 8px; background-color: #eee; accent-color: #1E90FF;">
-          60%
-        </progress>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <span class="skill-text">Python</span>
+  <div class="progress-bar" aria-label="Python skill level">
+    <div class="progress-fill" style="--fill-width: 70%; animation-delay: 0.9s;"></div>
+  </div>
+</div>
+
+<div>
+  <span class="skill-text">JavaScript</span>
+  <div class="progress-bar" aria-label="JavaScript skill level">
+    <div class="progress-fill" style="--fill-width: 65%; animation-delay: 1.2s;"></div>
+  </div>
+</div>
+
+<div>
+  <span class="skill-text">Arduino</span>
+  <div class="progress-bar" aria-label="Arduino skill level">
+    <div class="progress-fill" style="--fill-width: 60%; animation-delay: 1.5s;"></div>
+  </div>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-  <summary><b>DeepDomain v2.0</b> - Advanced Subdomain Enumeration Tool 🔍</summary>
-  <ul>
-    <li>DNS brute force, certificate transparency, HTTP fingerprinting, API integration</li>
-    <li>Open source, MIT licensed</li>
-    <li><a href="https://github.com/roger054/DeepDomain" target="_blank">Explore the repo</a></li>
-  </ul>
-</details>
+- **DeepDomain v2.0** – Subdomain enumeration tool [Repo](https://github.com/roger054/DeepDomain)  
+  Animated, multi-tech scanning, API integration.
 
-<details>
-  <summary><b>IoT & Embedded Systems</b> - Arduino & ESP32 Projects 📡</summary>
-  <ul>
-    <li>CAN bus, sensor networks, home automation</li>
-    <li>Secure communication & device prototyping</li>
-  </ul>
-</details>
+- **IoT & Embedded** – Arduino & ESP32 projects: CAN bus, home automation.
 
-<details>
-  <summary><b>Web & Mobile Apps</b> - React, Node.js & Flutter 📱</summary>
-  <ul>
-    <li>Full-stack apps with clean UI/UX</li>
-    <li>Cross-platform mobile applications</li>
-  </ul>
-</details>
+- **Web & Mobile** – React, Node.js & Flutter full-stack apps.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roger054&theme=radical&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:your-email@example.com" target="_blank" rel="noopener">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p>
+  <a href="mailto:your-email@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank" rel="noopener">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://roger054.github.io/portfolio" target="_blank" rel="noopener">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank" rel="noopener">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  &nbsp;
+  <a href="https://twitter.com/your-twitter" title="Twitter" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -179,14 +164,4 @@ Always learning, always building.
 
 <p align="center" style="font-style: italic; color: #666;">
   “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-</p>
-
----
-
-<p align="center">
-  Thanks for stopping by! 🚀 Let’s build amazing things together.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roger054/roger054/main/assets/github-snake.svg" width="350" alt="GitHub Snake" />
 </p>
