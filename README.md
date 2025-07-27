@@ -1,64 +1,90 @@
-# Hi there 👋 I'm roger054
+<!--
+  README for roger054 GitHub Profile
+  Enhanced version with animations, badges, skill bars, and cool styling.
+-->
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roger054/roger054/main/assets/github-snake.svg" width="250" alt="GitHub Snake" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=roger054&color=orange)](https://github.com/roger054)
+<h1 align="center" style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+  Hi there! 👋 I'm <b>roger054</b>
+</h1>
 
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- Full-stack developer | Cybersecurity researcher | Embedded systems enthusiast  
-- Building **advanced subdomain enumeration tools**, **IoT projects** with Arduino/ESP32,  
-  and **web, mobile & desktop applications**  
-- Passionate about clean code, automation, and secure systems
-
----
-
-### 🛠️ Tech Stack
-
-| Languages | Frameworks & Tools | Cloud & DevOps |
-| --------- | ------------------ | -------------- |
-| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) C++ | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React.js | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker |
-| ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C# | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS |
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) Flutter | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) Kubernetes |
-| ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg) Arduino | ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) Visual Studio | ![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg) Nginx |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roger054&color=brightgreen&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github" alt="Status: Active" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OS-Windows%2010-blue?style=flat-square&logo=windows" alt="Windows 10" />
+</p>
 
 ---
 
-### 🚀 Projects
+## 👨‍💻 About Me
+
+I'm a passionate **Full-stack Developer** and **Cybersecurity Researcher** with a knack for building:
+
+- 🔍 Advanced **subdomain enumeration tools**  
+- 📡 Cutting-edge **IoT & Embedded Systems** (Arduino, ESP32, CAN bus)  
+- 🌐 Modern **Web, Mobile & Desktop Applications**  
+- 🛡️ Secure, scalable systems with automation & DevOps mindset  
+
+I believe in clean code, continuous learning, and pushing the boundaries of tech every day.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />&nbsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />&nbsp;
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />&nbsp;
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />&nbsp;
+  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />&nbsp;
+  <img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Projects
 
 <details>
-<summary><b>DeepDomain v2.0</b> - Advanced Subdomain Enumeration Tool 🔍</summary>
+<summary><b>DeepDomain v2.0</b> — Advanced Subdomain Enumeration Tool 🔍</summary>
 
 - DNS brute force, certificate transparency, HTTP fingerprinting, API integration  
 - Open source, MIT licensed  
-- [GitHub Repo](https://github.com/roger054/DeepDomain)  
+- [Explore Repo](https://github.com/roger054/DeepDomain)  
 </details>
 
 <details>
-<summary><b>IoT & Embedded Systems</b> 📡</summary>
+<summary><b>IoT & Embedded Systems</b> — ESP32 & Arduino Projects 📡</summary>
 
-- ESP32 and Arduino projects integrating CAN bus, sensors, wireless comms  
-- Home automation and smart device prototyping  
+- CAN bus integration, sensor networks, home automation  
+- Smart device prototyping & secure communication  
 </details>
 
 <details>
-<summary><b>Web & Mobile Apps</b> 📱</summary>
+<summary><b>Web & Mobile Apps</b> — React, Node.js & Flutter 📱</summary>
 
-- React + Node.js full-stack applications  
-- Cross-platform Flutter mobile apps  
+- Full-stack applications with clean UI/UX  
+- Cross-platform mobile apps with Flutter  
 </details>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -66,49 +92,108 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roger054&theme=radical&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roger054&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 💪 Skills Progress
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody>
+    <tr>
+      <td width="20%">C++</td>
+      <td width="80%">
+        <progress max="100" value="95" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          95%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td>
+        <progress max="100" value="80" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          80%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>
+        <progress max="100" value="70" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          70%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>
+        <progress max="100" value="70" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          70%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>
+        <progress max="100" value="60" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          60%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>Arduino</td>
+      <td>
+        <progress max="100" value="60" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          60%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>React.js</td>
+      <td>
+        <progress max="100" value="60" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          60%
+        </progress>
+      </td>
+    </tr>
+    <tr>
+      <td>Node.js</td>
+      <td>
+        <progress max="100" value="50" style="width: 100%; height: 15px; border-radius: 8px; background-color: #eee;">
+          50%
+        </progress>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/roger054"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/roger054"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://roger054.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:your-email@example.com" target="_blank" rel="noopener"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/roger054" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/roger054" target="_blank" rel="noopener"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://roger054.github.io/portfolio" target="_blank" rel="noopener"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.gg/yourdiscord" target="_blank" rel="noopener"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🏆 Skills Progress
-
-| Skill       | Proficiency            |
-| ----------- | --------------------- |
-| C++         | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 95%  |
-| C#          | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ 80%  |
-| Java        | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%  |
-| Python      | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%  |
-| JavaScript  | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60%  |
-| Arduino     | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60%  |
-| React.js    | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60%  |
-| Node.js     | 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ 50%  |
-
----
-
-### 🎉 Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+<p align="center" style="font-style: italic; color: #666;">
+  “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roger054/roger054/main/assets/github-snake.svg" alt="GitHub Snake" width="400" />
+  <img src="https://raw.githubusercontent.com/roger054/roger054/main/assets/github-snake.svg" width="400" alt="GitHub Snake" />
 </p>
 
 ---
 
-Thanks for stopping by! 🚀  
-Let's keep building amazing things together.
-
+<p align="center">
+  Thanks for visiting! Let's build the future, one line of code at a time. 🚀
+</p>
