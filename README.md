@@ -1,167 +1,68 @@
-<!-- README.md -->
+# Hi there, I'm roger054 👋
 
-<p align="center">
-  <!-- Inline SVG Snake animation -->
-  <svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg" >
-    <style>
-      .snake-body {
-        stroke: #FF6B6B;
-        stroke-width: 6;
-        fill: none;
-        stroke-linecap: round;
-        animation: dash 2s linear infinite;
-      }
-      @keyframes dash {
-        to {
-          stroke-dashoffset: -1000;
-        }
-      }
-    </style>
-    <path class="snake-body" stroke-dasharray="200" stroke-dashoffset="0"
-      d="M10 40 Q 40 10, 70 40 T 130 40 T 190 40" />
-  </svg>
-</p>
-
-<h1 align="center">
-  <span class="animated-text">Hi there! 👋 I'm <strong>roger054</strong></span>
-</h1>
-
-<style>
-  .animated-text {
-    display: inline-block;
-    font-size: 3em;
-    font-weight: 700;
-    background: linear-gradient(90deg, #FF6B6B, #FFD93D);
-    -webkit-background-clip: text;
-    color: transparent;
-    transition: transform 0.3s ease, filter 0.3s ease;
-    cursor: pointer;
-  }
-  .animated-text:hover {
-    transform: scale(1.1) rotate(3deg);
-    filter: drop-shadow(2px 4px 6px rgba(255, 107, 107, 0.7));
-  }
-
-  /* Progress bars container */
-  .progress-bar {
-    background: #eee;
-    border-radius: 20px;
-    overflow: hidden;
-    margin: 8px 0;
-    width: 100%;
-    max-width: 400px;
-    height: 22px;
-  }
-  .progress-fill {
-    background: linear-gradient(90deg, #FF6B6B, #FFD93D);
-    height: 100%;
-    width: 0;
-    border-radius: 20px;
-    animation: fillbar 2s ease forwards;
-  }
-  @keyframes fillbar {
-    from { width: 0; }
-    to { width: var(--fill-width); }
-  }
-
-  /* Animated hover for skill text */
-  .skill-text {
-    font-weight: 600;
-    font-size: 1.2em;
-    transition: color 0.3s ease;
-    cursor: default;
-  }
-  .skill-text:hover {
-    color: #FF6B6B;
-    text-shadow: 0 0 8px #FF6B6B;
-  }
-</style>
+![Snake Animation](https://i.gifer.com/origin/2f/2f8028e57da0c04d9cae5f5b3d4f9967.gif)
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<span class="animated-text" style="font-size:1.5em; cursor:pointer;">
-  Passionate full-stack dev, embedded systems fan & cybersecurity explorer.
-</span>
+I'm a passionate developer specializing in:
 
----
-
-## 🛠️ Tech Stack & Skills
-
-<div>
-  <span class="skill-text">C++</span>
-  <div class="progress-bar" aria-label="C++ skill level">
-    <div class="progress-fill" style="--fill-width: 95%;"></div>
-  </div>
-</div>
-
-<div>
-  <span class="skill-text">C#</span>
-  <div class="progress-bar" aria-label="C# skill level">
-    <div class="progress-fill" style="--fill-width: 85%; animation-delay: 0.3s;"></div>
-  </div>
-</div>
-
-<div>
-  <span class="skill-text">Java</span>
-  <div class="progress-bar" aria-label="Java skill level">
-    <div class="progress-fill" style="--fill-width: 75%; animation-delay: 0.6s;"></div>
-  </div>
-</div>
-
-<div>
-  <span class="skill-text">Python</span>
-  <div class="progress-bar" aria-label="Python skill level">
-    <div class="progress-fill" style="--fill-width: 70%; animation-delay: 0.9s;"></div>
-  </div>
-</div>
-
-<div>
-  <span class="skill-text">JavaScript</span>
-  <div class="progress-bar" aria-label="JavaScript skill level">
-    <div class="progress-fill" style="--fill-width: 65%; animation-delay: 1.2s;"></div>
-  </div>
-</div>
-
-<div>
-  <span class="skill-text">Arduino</span>
-  <div class="progress-bar" aria-label="Arduino skill level">
-    <div class="progress-fill" style="--fill-width: 60%; animation-delay: 1.5s;"></div>
-  </div>
-</div>
+- Embedded systems & **Arduino** projects  
+- Full-stack web & mobile apps (React, Flutter, Node.js)  
+- Cybersecurity & automation tools  
+- Desktop software & utilities  
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-- **DeepDomain v2.0** – Subdomain enumeration tool [Repo](https://github.com/roger054/DeepDomain)  
-  Animated, multi-tech scanning, API integration.
-
-- **IoT & Embedded** – Arduino & ESP32 projects: CAN bus, home automation.
-
-- **Web & Mobile** – React, Node.js & Flutter full-stack apps.
-
----
-
-## 📫 Contact Me
-
-<p>
-  <a href="mailto:your-email@example.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter" title="Twitter" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-2C6BED?style=flat&logo=espressif&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-<p align="center" style="font-style: italic; color: #666;">
-  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-</p>
+## 🚀 Current Projects & Highlights
+
+- **DeepDomain** – Advanced subdomain enumeration tool (GitHub repo)  
+- IoT & Embedded: ESP32 CAN Bus, Arduino automation  
+- Full-stack apps & cybersecurity tools for professional use  
+- Desktop software for Windows & cross-platform  
+
+---
+
+## 🎯 Skill Progress
+
+**Arduino:**  
+🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%
+
+**Python:**  
+🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ 80%
+
+**C++:**  
+🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60%
+
+**JavaScript:**  
+🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 90%
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
