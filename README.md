@@ -1,107 +1,80 @@
-<!--
-This README is designed to make your GitHub profile look like a magical high-tech lair.
-You can customize colors, emojis, sections, and animations as you want!
--->
-
-<!-- Gradient Background -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img width="100%" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80" alt="Fantasy Tech Background" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/gitbanner.gif" width="100%" alt="banner" />
 </p>
 
-<h1 align="center" style="background: linear-gradient(90deg, #f1592a, #ffda6a); -webkit-background-clip: text; color: transparent;">
-👋 Welcome to My Magical GitHub Realm
-</h1>
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=f1592a&center=true&vCenter=true&width=600&lines=I'm+Soheil+Manna+(roger054);Cybersecurity+&+Dev+Enthusiast;Creator+of+Awesome+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF0000,000000&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Roger054+%F0%9F%91%8B;Cybersecurity+Tool+Builder+%F0%9F%94%93;Web+%7C+App+%7C+Desktop+Dev+%F0%9F%9A%80;ESP32+%2F+Arduino+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%94%BB;I+Create+Smart%2C+Secure+Tech+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧙‍♂️ About Me
+## 🔥 About Me
 
-- ⚔️ Full-stack web, mobile, desktop & embedded systems wizard  
-- 🛡️ Red team & cybersecurity spellcaster  
-- 🤖 Arduino & ESP32 enchanter  
-- 📚 Always learning & conjuring new magic (tech!)  
-- 🌌 Open-source explorer — [DeepDomain](https://github.com/roger054/DeepDomain) and beyond  
-
----
-
-## ⚔️ My Tech Arsenal
-
-<div align="center">
-  <!-- Animated badges with shaking effect -->
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java" alt="Java Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Framework-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-  <img src="https://img.shields.io/badge/Embedded-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge" style="animation: shake 1.5s infinite ease-in-out;"/>
-</div>
+🎯 Full-stack developer, hardware hacker, and red-team enthusiast  
+🧠 I create end-to-end systems: **websites, mobile apps, desktop software, and embedded tech**  
+⚔️ I specialize in **cybersecurity**, **automation**, and **real-world tools**  
+🌍 Based in **Qatar & Sudan** — building solutions that don’t exist in the market yet
 
 ---
 
-## 🎮 Skill Levels: Progress Bars
-
-| Skill            | Level                      |
-|------------------|----------------------------|
-| Python           | ██████████ 100%            |
-| Java             | █████████░ 90%             |
-| C++              | ████████░░ 80%             |
-| C#               | ███████░░░ 70%             |
-| JavaScript       | █████████░ 90%             |
-| TypeScript       | ███████░░░ 70%             |
-| React            | █████████░ 90%             |
-| Arduino & ESP32  | ████████░░ 80%             |
-
----
-
-## 🏆 Projects to Conquer
-
-| Project                 | Description                               | Link                                           |
-|-------------------------|-------------------------------------------|------------------------------------------------|
-| DeepDomain              | Advanced Subdomain Enumeration Tool       | [GitHub](https://github.com/roger054/DeepDomain) |
-| Cybersecurity Toolkit   | Red team tools & scripts                   | In progress                                    |
-| Embedded Weather Station| DIY IoT weather monitor (Arduino + ESP32) | Coming soon!                                   |
-
----
-
-## 📊 GitHub Stats & Snake 🐍
+## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/roger054/roger054/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,dart,go" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,bash" />
 </p>
 
 ---
 
-## 📫 Find Me in the Realm
+## 📈 GitHub Stats
 
-| Platform   | Link                                  |
-|------------|--------------------------------------|
-| Email      | [soheilmanna@proton.me](mailto:soheilmanna@proton.me) |
-| LinkedIn   | [linkedin.com/in/soheilmanna](https://linkedin.com/in/soheilmanna) |
-| Portfolio  | [coral-eland-948553.hostingersite.com](https://coral-eland-948553.hostingersite.com/) |
-| Twitter    | [twitter.com/yourhandle](https://twitter.com/yourhandle) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roger054&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My+GitHub+Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger054&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-## 🔮 Fun & Magic
+## 🏆 Trophy Showcase
 
-> **"Code is magic — conjure wisely."**  
-> *— Soheil the Coder*  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roger054&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-<style>
-@keyframes shake {
-  0%, 100% { transform: rotate(-3deg); }
-  50% { transform: rotate(3deg); }
-}
-</style>
+## 🧠 Currently Working On
+
+- 🔐 Advanced red-team cybersecurity tools  
+- 🌐 Full-stack dashboards with APIs & real-time data  
+- 📱 Flutter-based cross-platform mobile apps  
+- 🔌 ESP32 + MCP2515 + TJA1043 IoT hardware boards  
+- 🧰 Toolkits for internal use by pros & government
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/roger054" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+</p>
+<p align="center"><i>“Code hard. Ship fast. Break limits.”</i></p>
